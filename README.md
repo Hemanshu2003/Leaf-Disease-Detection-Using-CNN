@@ -107,8 +107,10 @@ The Convolutional Neural Network consists of the following layers:
 
 ### Evaluation Metrics
 
-- **Accuracy**: Achieved % accuracy on the test set.
-- **Precision, Recall, and F1-Score**: Detailed evaluation metrics for each class.
+- **Train Accuracy**  : 97.94%
+- **Test Accuracy**   : 95.54%
+- **Precision Score** : 95.54%
+- **Recall Score**    : 95.54%
 
 ### Visualizations
 
