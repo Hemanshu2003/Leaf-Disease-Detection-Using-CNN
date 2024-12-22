@@ -112,11 +112,11 @@ The Convolutional Neural Network consists of the following layers:
 
 ### Visualizations
 
-1. **Training and Validation Loss**:
+1. **Training and Validation Loss Plot**:
 
-   ![Training and Validation LossPlot](https://github.com/Hemanshu2003/Leaf-Disease-Detection-Using-CNN/blob/main/Output1.png)
+   ![Training and Validation Loss Plot](https://github.com/Hemanshu2003/Leaf-Disease-Detection-Using-CNN/blob/main/Output1.png)
 
-2. **Confusion Matrix**:
+2. **Training and Validation Accuracy Plot**:
 
    ![Training and Validation Accuracy Plot](https://github.com/Hemanshu2003/Leaf-Disease-Detection-Using-CNN/blob/main/Output2.png)
 
