@@ -12,7 +12,6 @@ This project focuses on detecting diseases in plant leaves using Convolutional N
 4. [Model Architecture](#model-architecture)
 5. [How to Run](#how-to-run)
 6. [Results](#results)
-7. [Future Enhancements](#future-enhancements)
 8. [License](#license)
 
 ---
@@ -20,6 +19,12 @@ This project focuses on detecting diseases in plant leaves using Convolutional N
 ## Introduction
 
 Plant diseases significantly impact agricultural yield and productivity. This project automates the detection of leaf diseases by analyzing images with CNN-based models. It aims to help farmers and agriculturists by providing a reliable and scalable solution for disease detection.
+
+Predicting disease for 4 species of plants :
+- Corn 
+- Grapes
+- Potato 
+- Tomato
 
 ---
 
@@ -102,18 +107,18 @@ The Convolutional Neural Network consists of the following layers:
 
 ### Evaluation Metrics
 
-- **Accuracy**: Achieved X% accuracy on the test set.
+- **Accuracy**: Achieved % accuracy on the test set.
 - **Precision, Recall, and F1-Score**: Detailed evaluation metrics for each class.
 
 ### Visualizations
 
 1. **Training and Validation Loss**:
 
-   ![Training Loss Plot](link-to-plot)
+   ![Training and Validation LossPlot](https://github.com/Hemanshu2003/Leaf-Disease-Detection-Using-CNN/blob/main/Output1.png)
 
 2. **Confusion Matrix**:
 
-   ![Confusion Matrix](link-to-confusion-matrix)
+   ![Training and Validation Accuracy Plot](https://github.com/Hemanshu2003/Leaf-Disease-Detection-Using-CNN/blob/main/Output2.png)
 
 ---
 
@@ -125,10 +130,5 @@ The Convolutional Neural Network consists of the following layers:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Feel free to contribute by opening issues or submitting pull requests! Together, we can make agricultural technology smarter and more accessible.
